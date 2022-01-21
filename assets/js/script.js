@@ -87,8 +87,3 @@ var generateBtn = document.querySelector("#generate");
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
-
-/*
-No errors in console
-README w/description, screenshot, and link to deployed application
-*/
